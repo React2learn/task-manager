@@ -25,3 +25,5 @@ A full-stack task management application built with a decoupled architecture usi
 ```bash
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd task-manager
+```
+### Backend Setup
