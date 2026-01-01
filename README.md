@@ -27,15 +27,8 @@ git clone [https://github.com/your-username/your-repo-name.git](https://github.c
 cd task-manager
 ```
 
-### Backend Setup
 
-#### Go to backend folder
-```bash
-# cd backend
 
-# Create virtual environment
-
-```
 ### Backend Setup
 #### Go to backend folder
 ```
