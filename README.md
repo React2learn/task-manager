@@ -1,13 +1,7 @@
 # 📝 Task Manager
 A full-stack task management application built with a decoupled architecture using **FastAPI** and **Next.js**.
 
----
 
-## 📸 Screenshots
-![Main Dashboard](INSERT_YOUR_IMAGE_LINK_HERE)
-> *Tip: To add your image, just drag and drop your photo right here while editing this file on GitHub!*
-
----
 
 ## 🚀 Features
 * **FastAPI Backend:** High-performance asynchronous API.
