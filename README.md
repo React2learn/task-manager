@@ -33,15 +33,20 @@ cd backend
 ```
 
 #### Create virtual environment
+```
 python -m venv venv
+```
 
 
 #### Activate environment (Windows)
+```
 .\venv\Scripts\activate
-
+```
 
 #### Activate environment (Mac/Linux)
+```
 source venv/bin/activate
+```
 
 
 #### Install dependencies
