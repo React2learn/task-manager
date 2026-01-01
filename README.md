@@ -27,19 +27,21 @@ git clone [https://github.com/your-username/your-repo-name.git](https://github.c
 cd task-manager
 ```
 ### Backend Setup
+#### Go to backend folder
 cd backend
 
-Create virtual environment
+#### Create virtual environment
 python -m venv venv
 
-Activate environment (Windows)
+#### Activate environment (Windows)
 .\venv\Scripts\activate
 
-Activate environment (Mac/Linux)
+#### Activate environment (Mac/Linux)
 source venv/bin/activate
 
-Install dependencies
+#### Install dependencies
 pip install -r requirements.txt
 
-Start FastAPI server
+#### Start FastAPI server
 uvicorn main:app --reload
+
