@@ -3,6 +3,10 @@ A full-stack task management application built with a decoupled architecture usi
 
 
 
+<img width="1920" height="1020" alt="Screenshot 2026-01-01 104737" src="https://github.com/user-attachments/assets/e99c9b89-25fe-4f34-b95f-d45b1f81b439" />
+
+
+
 ## 🚀 Features
 * **FastAPI Backend:** High-performance asynchronous API.
 * **Next.js Frontend:** Modern, responsive UI with Server Components.
