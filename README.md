@@ -33,37 +33,26 @@ cd task-manager
 ```bash
 # cd backend
 
+# Create virtual environment
 
+```
 ### Backend Setup
 #### Go to backend folder
 ```
-cd backend
-```
+# cd backend
 
-#### Create virtual environment
-```
+# Create virtual environment
 python -m venv venv
-```
 
-
-#### Activate environment (Windows)
-```
-.\venv\Scripts\activate
-```
-
-#### Activate environment (Mac/Linux)
-```
+# Activate environment (Windows)
 source venv/bin/activate
-```
 
-
-#### Install dependencies
-```
+# Install dependencies
 pip install -r requirements.txt
-```
-#### Start FastAPI server
-```
+
+# Start FastAPI server
 uvicorn main:app --reload
+
 ```
 
 ### 3. Frontend Setup (Next.js)
@@ -79,5 +68,6 @@ npm install
 
 # Start development server
 npm run dev
+```
 
 
