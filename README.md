@@ -1,4 +1,4 @@
-# 📝 Task Manager Pro
+# 📝 Task Manager
 A full-stack task management application built with a decoupled architecture using **FastAPI** and **Next.js**.
 
 ---
@@ -20,7 +20,7 @@ A full-stack task management application built with a decoupled architecture usi
 ## 🛠️ Tech Stack
 * **Frontend:** Next.js, Tailwind CSS, TypeScript.
 * **Backend:** Python, FastAPI, Pydantic.
-* **Database:** (e.g., SQLite / PostgreSQL)
+* **Database:** (SQLite)
 * **Environment:** Virtualenv (Python), NPM/PNPM (Node).
 
 ---
