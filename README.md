@@ -58,3 +58,18 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+### 3. Frontend Setup (Next.js)
+
+Open a new terminal and navigate to the frontend directory:
+
+```bash
+# Go to frontend folder
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+
