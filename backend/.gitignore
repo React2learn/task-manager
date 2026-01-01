@@ -1,0 +1,14 @@
+# Environments
+venv/
+backend/venv/
+env/
+.env
+git reset
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables (safety)
+.env
+
+# DO NOT put an asterisk (*) here!
