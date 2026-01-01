@@ -29,17 +29,17 @@ cd task-manager
 ### Backend Setup
 cd backend
 
-# Create virtual environment
+Create virtual environment
 python -m venv venv
 
-# Activate environment (Windows)
+Activate environment (Windows)
 .\venv\Scripts\activate
 
-# Activate environment (Mac/Linux)
-# source venv/bin/activate
+Activate environment (Mac/Linux)
+source venv/bin/activate
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
-# Start FastAPI server
+Start FastAPI server
 uvicorn main:app --reload
